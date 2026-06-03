@@ -7,11 +7,11 @@
 # It is used in this project to streamline documentation and provide better support for docstring generation.
 
 [project]
-site_name = "Project Documentation" # CUSTOM: Name of the documentation site."
-site_url = "https://denisecase.github.io/datafun-01-foundations/"
-repo_url = "https://github.com/denisecase/datafun-01-foundations"
-repo_name = "denisecase/datafun-01-foundations"
-site_description = "Project Documentation"
+site_name = "Sabri DataFun 04 Notebooks" # CUSTOM: Name of the documentation site."
+site_url = "https://sabrouch36.github.io/datafun-04-notebooks/"
+repo_url = "https://github.com/sabrouch36/datafun-04-notebooks"
+repo_name = "sabrouch36/datafun-04-notebooks"
+site_description = "Exploratory Data Analysis with Jupyter Notebooks"
 docs_dir = "docs" # source directory for documentation markdown files
 site_dir = "site" # output directory for generated site (ignored by Git; not in repo)
 edit_uri = "edit/main/docs/" # "Edit this page" links (GitHub)
@@ -19,7 +19,7 @@ edit_uri = "edit/main/docs/" # "Edit this page" links (GitHub)
 [project.extra]
 # WHY: Social links provide easy access to project repositories and profiles.
 social = [
-    {icon = "fontawesome/brands/github", link = "https://github.com/denisecase/datafun-01-foundations" },
+    {icon = "fontawesome/brands/github", link = "https://github.com/sabrouch36/datafun-04-notebooks" },
 ]
 
 # ------------------------------------------------------------

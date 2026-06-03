@@ -21,8 +21,12 @@ authors:
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
 
-repository-code: "https://github.com/denisecase/datafun-04-notebooks"
-url: "https://github.com/denisecase/datafun-04-notebooks"
+  - family-names: Hamdaoui
+    given-names: Sabri
+    affiliation: "Northwest Missouri State University, USA"
+
+repository-code: "https://github.com/sabrouch36/datafun-04-notebooks"
+url: "https://github.com/sabrouch36/datafun-04-notebooks"
 license: MIT
 
 abstract: >
