@@ -188,3 +188,26 @@ Remove unnecessary instructional comments in your final version of this README.m
 ![Provide a Useful Caption](./docs/images/Figure_2.png)
 
 ![Provide a Useful Caption](./docs/images/Figure_3.png)
+
+![Body Mass Distribution Histogram](./docs/images/Figure_4.png)
+
+## My Modification
+
+I added a new histogram visualization for the `body_mass_g` variable.
+The added histogram visualizes the distribution of penguin body mass values.
+Most penguins fall within the middleweight ranges,
+while fewer observations appear at the lowest and highest body mass values.
+
+### What I Changed
+
+* Added a histogram chart using `sns.histplot()`.
+* Displayed the distribution of penguin body mass.
+
+### Why I Made This Change
+
+I wanted to better understand how penguin body weights are distributed across the dataset.
+
+### What I Observed
+
+The histogram showed the overall distribution of body mass values and helped identify common weight ranges within
+the penguin dataset.
